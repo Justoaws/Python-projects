@@ -1,0 +1,4 @@
+house
+cars
+clothes
+tv
